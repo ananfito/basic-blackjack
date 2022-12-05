@@ -6,7 +6,7 @@ A basic Blackjack app created with HTML, CSS, and JavaScript as part of [Scrimba
 - [Screenshot](#screenshot)
   - [Desktop](#desktop)
   - [Mobile](#mobile)
-- [Status]
+- [Status](#status)
 - [Connect](#connect)
 
 ## Screenshot
@@ -21,7 +21,7 @@ A basic Blackjack app created with HTML, CSS, and JavaScript as part of [Scrimba
 
 ## Status
 
-A live version of the app can be viewed at: 
+A live version of the app can be viewed at: [https://ananfito.github.io/basic-blackjack/](https://ananfito.github.io/basic-blackjack/)
 
 ## Connect
 
